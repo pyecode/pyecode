@@ -9,7 +9,7 @@ Estou no meu último ano de Técnico em Informática, mas atualmente estudo em f
 - 💻 Java
 - 🌐 HTML, CSS e JavaScript
 - 🧠 Lógica de programação
-- 📱  Mobile, ExpoGo
+- 📱   Mobile, ExpoGo
 
 ---
 
