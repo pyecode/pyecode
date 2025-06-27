@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏽‍💻 Pyethra | Desenvolvedora em formação
 
-<!--
-**pyecode/pyecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Pyethra (ou Pye/π) e estou iniciando minha jornada como desenvolvedora.  
+Estou no meu último ano de Técnico em Informática, mas atualmente estudo em foco **Java** e desenvolvimento **Front-end**, com objetivo em criar interfaces modernas e funcionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades em desenvolvimento
+- 💻 Java
+- 🌐 HTML, CSS e JavaScript
+- 🧠 Lógica de programação
+- 📱  Mobile, ExpoGo
+
+---
+
+### 🎯 Em progresso
+- Estudando Front-end
+- Criando um portfólio pessoal com projetos reais
+- Aprendendo estrutura de dados e boas práticas
+
+---
+
+### 🌐 Onde me encontrar
+- 📫 E-mail: pyethra14@gmail.com
