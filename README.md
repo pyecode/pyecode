@@ -21,3 +21,4 @@ Sou formada em Técnico em Informática, iniciando a graduação em Análise e D
 
 ### 🌐 Onde me encontrar
 - 📫 E-mail: pyethra14@gmail.com
+- 💻 LinkedIn: https://www.linkedin.com/in/pyethradev/
