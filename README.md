@@ -1,3 +1,4 @@
 <div align="center">
-<img src="./inicial.gif" width="100%" alt="Pyethra">
+<img src="./inicial.gif" width="40%" alt="Pyethra">
 </div>
+
