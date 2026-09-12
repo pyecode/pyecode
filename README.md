@@ -1,3 +1,8 @@
+<div align="center">
+<img src="./assets/inicial.gif" width="100%" alt="Pyethra">
+</div>
+
+
 <p align="center">
   <a href="https://github.com/pyecod">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=698&text=Hi!%20I'm%20Pyethra!!%20%E2%9C%A6" alt="Hi! I&#39;m Pyethra!! ✦" />
