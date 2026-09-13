@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C9B6FF&center=true&vCenter=true&width=750&height=50&lines=Desenvolvedora+Java+em+formação;Explorando+Engenharia+de+Dados;Construindo%2C+aprendendo+e+evoluindo;Transformando+curiosidade+em+código" alt="Animação de texto">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C9B6FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Desenvolvedora+Java+em+forma%C3%A7%C3%A3o;Explorando+Engenharia+de+Dados;Construindo%2C+aprendendo+e+evoluindo;Transformando+curiosidade+em+c%C3%B3digo" alt="Animação de texto">
 
 </div>
 
@@ -151,21 +151,11 @@ Projetos desenvolvidos em equipe, apresentações e atividades práticas que aju
 
 ## `~/github`
 
-### ✦ Minha atividade no GitHub
+### ✦ GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pyecode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170" alt="Estatísticas do GitHub">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyecode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Linguagens mais utilizadas">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyecode&theme=tokyonight&hide_border=true" height="170" alt="Sequência de contribuições">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyecode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -190,42 +180,6 @@ Eu aprendo, construo, erro, procuro entender o problema, corrijo e continuo.
 <br>
 
 `Curiosidade` → `Código` → `Prática` → `Evolução`
-
----
-
-## `~/curiosidade`
-
-### 🔎 Curiosidade
-
-Posso começar com:
-
-> **"Estou só curiosa sobre isso..."**
-
-e algumas horas depois estar pesquisando absolutamente tudo sobre o assunto.
-
----
-
-## `~/atividade`
-
-### ✦ Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyecode&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub" width="95%" alt="Gráfico de atividade do GitHub">
-
-</div>
-
----
-
-## `~/contribuicoes`
-
-### ✦ Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pyecode/pyecode/output/github-contribution-grid-snake.svg" alt="Animação das contribuições">
-
-</div>
 
 ---
 
